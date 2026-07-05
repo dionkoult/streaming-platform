@@ -227,3 +227,9 @@
     margin-left: -10px;
   }
 }
+
+@media (max-width: 1024px) {
+  .youtube-logo {
+    height: 25px;
+  }
+}
